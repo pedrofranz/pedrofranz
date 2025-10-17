@@ -16,5 +16,5 @@
   <br/>
   <br/>
   
-  Discente da Universidade Federal do Mato-Grosso, Campus Araguai. Apaixonado por tecnologia, análise e automação de dados. 
+  Discente da Universidade Federal do Mato-Grosso, Campus Araguaia. Apaixonado por tecnologia, análise e automação de dados. 
 </div>
